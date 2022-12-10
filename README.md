@@ -13,6 +13,6 @@ https://flatredball.com/visual-studio-2019-xna-setup/
 
 \2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Content\
 
-5- Finally unzip epic1.zip from the followind directory
+5- Finally unzip epic1.zip from the following directory
 
 \2DshooterTutorial\_2DshooterTutorialContent
