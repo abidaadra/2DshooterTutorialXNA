@@ -11,8 +11,8 @@ https://flatredball.com/visual-studio-2019-xna-setup/
 
 4- Unzip epic1.zip from the following directory
 
-"\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Content\"
+/2DshooterTutorial/_2DshooterTutorial/bin/x86/Debug/Content/
 
 5- Finally unzip epic1.zip from the following directory
 
-"\2DshooterTutorial\_2DshooterTutorialContent"
+/2DshooterTutorial/_2DshooterTutorialContent
