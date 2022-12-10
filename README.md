@@ -7,4 +7,4 @@ https://visualstudio.microsoft.com/downloads/
 
 https://flatredball.com/visual-studio-2019-xna-setup/
 
-3- Copy part 1 and part 2 files in one folder
+3- Copy part 1, part 2, part 3 and part 4 files in one folder or it won't work
