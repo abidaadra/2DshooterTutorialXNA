@@ -1,0 +1,76 @@
+c:\users\admin\documents\visual studio 2015\Projects\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Content\ship.xnb
+c:\users\admin\documents\visual studio 2015\Projects\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\_2DshooterTutorial.exe
+c:\users\admin\documents\visual studio 2015\Projects\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\_2DshooterTutorial.pdb
+c:\users\admin\documents\visual studio 2015\Projects\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Microsoft.Xna.Framework.dll
+c:\users\admin\documents\visual studio 2015\Projects\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+c:\users\admin\documents\visual studio 2015\Projects\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+c:\users\admin\documents\visual studio 2015\Projects\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+c:\users\admin\documents\visual studio 2015\Projects\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+c:\users\admin\documents\visual studio 2015\Projects\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Microsoft.Xna.Framework.xml
+c:\users\admin\documents\visual studio 2015\Projects\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+c:\users\admin\documents\visual studio 2015\Projects\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+c:\users\admin\documents\visual studio 2015\Projects\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+c:\users\admin\documents\visual studio 2015\Projects\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+c:\users\admin\documents\visual studio 2015\Projects\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\obj\x86\Debug\_2DshooterTutorial.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\admin\documents\visual studio 2015\Projects\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\obj\x86\Debug\_2DshooterTutorial.exe
+c:\users\admin\documents\visual studio 2015\Projects\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\obj\x86\Debug\_2DshooterTutorial.pdb
+c:\users\admin\documents\visual studio 2015\Projects\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Content\space.xnb
+c:\users\admin\documents\visual studio 2015\Projects\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Content\asteroid.xnb
+C:\Users\Admin\documents\visual studio 2015\Projects\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Content\playerbullet.xnb
+C:\Users\Admin\documents\visual studio 2015\Projects\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Content\healthbar.xnb
+C:\Users\Admin\documents\visual studio 2015\Projects\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Content\enemyship.xnb
+C:\Users\Admin\documents\visual studio 2015\Projects\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Content\EnemyBullet.xnb
+C:\Users\Admin\documents\visual studio 2015\Projects\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Content\georgia.xnb
+C:\Users\Admin\documents\visual studio 2015\Projects\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Content\explosion3.xnb
+C:\Users\Admin\documents\visual studio 2015\Projects\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Content\1000points.xnb
+C:\Users\Admin\documents\visual studio 2015\Projects\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Content\2000points.xnb
+C:\Users\Admin\documents\visual studio 2015\Projects\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Content\5000points.xnb
+C:\Users\Admin\documents\visual studio 2015\Projects\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Content\500points.xnb
+C:\Users\Admin\documents\visual studio 2015\Projects\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Content\bgMusicCC.xnb
+C:\Users\Admin\documents\visual studio 2015\Projects\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Content\theme.xnb
+C:\Users\Admin\documents\visual studio 2015\Projects\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Content\epic1.xnb
+C:\Users\Admin\documents\visual studio 2015\Projects\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Content\explode.xnb
+C:\Users\Admin\documents\visual studio 2015\Projects\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Content\playershoot.xnb
+C:\Users\Admin\documents\visual studio 2015\Projects\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Content\bgMusicCC.wma
+C:\Users\Admin\documents\visual studio 2015\Projects\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Content\theme.wma
+C:\Users\Admin\documents\visual studio 2015\Projects\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Content\menuimage.xnb
+C:\Users\Admin\documents\visual studio 2015\Projects\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Content\gameover.xnb
+C:\Users\Admin\Desktop\for_github\Part2_C#\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Content\ship.xnb
+C:\Users\Admin\Desktop\for_github\Part2_C#\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Content\space.xnb
+C:\Users\Admin\Desktop\for_github\Part2_C#\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Content\asteroid.xnb
+C:\Users\Admin\Desktop\for_github\Part2_C#\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Content\playerbullet.xnb
+C:\Users\Admin\Desktop\for_github\Part2_C#\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Content\healthbar.xnb
+C:\Users\Admin\Desktop\for_github\Part2_C#\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Content\enemyship.xnb
+C:\Users\Admin\Desktop\for_github\Part2_C#\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Content\EnemyBullet.xnb
+C:\Users\Admin\Desktop\for_github\Part2_C#\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Content\explosion3.xnb
+C:\Users\Admin\Desktop\for_github\Part2_C#\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Content\1000points.xnb
+C:\Users\Admin\Desktop\for_github\Part2_C#\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Content\2000points.xnb
+C:\Users\Admin\Desktop\for_github\Part2_C#\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Content\5000points.xnb
+C:\Users\Admin\Desktop\for_github\Part2_C#\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Content\500points.xnb
+C:\Users\Admin\Desktop\for_github\Part2_C#\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Content\menuimage.xnb
+C:\Users\Admin\Desktop\for_github\Part2_C#\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Content\gameover.xnb
+C:\Users\Admin\Desktop\for_github\Part2_C#\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Content\georgia.xnb
+C:\Users\Admin\Desktop\for_github\Part2_C#\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Content\bgMusicCC.xnb
+C:\Users\Admin\Desktop\for_github\Part2_C#\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Content\theme.xnb
+C:\Users\Admin\Desktop\for_github\Part2_C#\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Content\epic1.xnb
+C:\Users\Admin\Desktop\for_github\Part2_C#\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Content\explode.xnb
+C:\Users\Admin\Desktop\for_github\Part2_C#\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Content\playershoot.xnb
+C:\Users\Admin\Desktop\for_github\Part2_C#\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Content\bgMusicCC.wma
+C:\Users\Admin\Desktop\for_github\Part2_C#\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Content\theme.wma
+C:\Users\Admin\Desktop\for_github\Part2_C#\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\_2DshooterTutorial.exe
+C:\Users\Admin\Desktop\for_github\Part2_C#\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\_2DshooterTutorial.pdb
+C:\Users\Admin\Desktop\for_github\Part2_C#\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Admin\Desktop\for_github\Part2_C#\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Admin\Desktop\for_github\Part2_C#\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Admin\Desktop\for_github\Part2_C#\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Admin\Desktop\for_github\Part2_C#\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Admin\Desktop\for_github\Part2_C#\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Admin\Desktop\for_github\Part2_C#\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Admin\Desktop\for_github\Part2_C#\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Admin\Desktop\for_github\Part2_C#\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Admin\Desktop\for_github\Part2_C#\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Admin\Desktop\for_github\Part2_C#\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\obj\x86\Debug\_2DshooterTutorial.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\for_github\Part2_C#\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Admin\Desktop\for_github\Part2_C#\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\obj\x86\Debug\_2DshooterTutorial.exe
+C:\Users\Admin\Desktop\for_github\Part2_C#\2DshooterTutorial\2DshooterTutorial\_2DshooterTutorial\obj\x86\Debug\_2DshooterTutorial.pdb
